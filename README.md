@@ -41,10 +41,10 @@ For each test case, output one line containing "Case #**x**: " followed by the a
 |:-----|:-------|
 |||
 |4 | Case #1: Foo |
-|9 0123456789 oF8 | Case #2: 9 |
-|Foo oF8 0123456789 | Case #3: 10011 |
-|13 0123456789abcdef 01 | Case #4: JAM! |
-|CODE O!CDE? A?JM!. |
+|9 &nbsp; 0123456789 &nbsp; oF8 | Case #2: 9 |
+|Foo &nbsp; oF8	&nbsp; 0123456789 | Case #3: 10011 |
+|13	&nbsp; 0123456789abcdef	&nbsp; 01 | Case #4: JAM! |
+|CODE	&nbsp; O!CDE?	&nbsp; A?JM!. ||
 
 
 
